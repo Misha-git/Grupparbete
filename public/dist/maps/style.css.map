@@ -1,0 +1,1 @@
+{"version":3,"sources":["aside.css"],"names":[],"mappings":"AAAA,MACI,WAAA,IAEJ,OACI,WAAA,KAEJ,OACI,WAAA,QAEJ,KACI,WAAA","file":"../style.css","sourcesContent":["aside {\n    background: red;\n}\nfooter {\n    background: blue;\n}\nheader {\n    background: blueviolet;\n}\nmain {\n    background: green;\n}"]}
